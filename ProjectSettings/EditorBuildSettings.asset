@@ -8,6 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a1afcf4119c095f4f985ca4e0f3fa931
+  - enabled: 1
+    path: Assets/Scenes/WireTask 1.unity
+    guid: 4ed03f3a9ef96504b8b42aadf3a16596
+  - enabled: 1
+    path: Assets/Scenes/Scrapyard/Scrapyard.unity
+    guid: 83c7eb3b3aa4bd24babe51d54b425e70
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
