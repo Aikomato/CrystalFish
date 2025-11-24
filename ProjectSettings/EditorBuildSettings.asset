@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: a1afcf4119c095f4f985ca4e0f3fa931
   - enabled: 1
-    path: Assets/Scenes/WireTask 1.unity
+    path: Assets/Scenes/Scrapyard/WireTask 1.unity
     guid: 4ed03f3a9ef96504b8b42aadf3a16596
   - enabled: 1
     path: Assets/Scenes/Scrapyard/Scrapyard.unity
